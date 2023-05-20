@@ -1,8 +1,6 @@
 # XMDL
 
 ---
-type: package manager
+type: true
 ---
----
-author: Niosem, InsydeHere20
----
+
