@@ -6,6 +6,6 @@ This folder regroups the tools used to draw the desktop
 
 This is AirOS's Windows Manager
 
-## AirBoot
+## AirFlow
 
-AirOS's them for GRUB, Bootscreen, etc
+AirOS's Dsktop environement
