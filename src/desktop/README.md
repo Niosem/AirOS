@@ -8,4 +8,4 @@ This is AirOS's Windows Manager
 
 ## AirFlow
 
-AirOS's Dsktop environement
+That would be the DE!
