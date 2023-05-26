@@ -1,14 +1,16 @@
 import urllib.request
-from git import repo
-
-repo = repo("../..")
+import os
+import time
 
 def get_package() :
-    print("niosem AIrOS package")
+    print("niosem AIrOS package. Waiting for airPackager.niosem.sh")
+    time.sleep(4.512)
+    
 
 def get_package_aur() :
-    print("Aur package")
-    repo.clone(repo)
+    print("Aur package. Contacting aur.archlinux.org")
+    time.sleep(4.512)
 
 def GetInScription() :
-    print("nopdm")
+    print("Fetching data from InScription servers. This WILL take a few seconds")
+    time.sleep(4.512)
