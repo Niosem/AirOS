@@ -1,2 +1,2 @@
 linux.diff
-src/xmdl/__pycache__
+src/xmdl/__pycache__/*
