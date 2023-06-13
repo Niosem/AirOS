@@ -2,6 +2,8 @@ import gethttp
 
 import os
 import psutil
+import pipeline.pipelineAUR
+import pipeline.pipelinePyPI
 
 source = input("What is the package source ? (aur, AirOS, snap, flatpak, inscription) (TYPE AS WRITTEN): ")
 pkg = input("Package: ")
