@@ -1,6 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+AirOS/src/xmdl/__pycache__
 *.py[cod]
+*.pyo
+*.pyc
+*.pyd
 
 # C extensions
 *.so
